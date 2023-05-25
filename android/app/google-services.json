@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775220992652",
+    "project_id": "note-app-af577",
+    "storage_bucket": "note-app-af577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775220992652:android:b0f3fd3472f39bcb1bf9a9",
+        "android_client_info": {
+          "package_name": "vn.qsoft.interview.note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-oXOnS9VFIp0uXKx9-f_qWwOckE6ol-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
